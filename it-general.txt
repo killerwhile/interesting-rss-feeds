@@ -1,1 +1,3 @@
 https://www.bleepingcomputer.com/feed/
+http://feeds.feedburner.com/HighScalability
+https://engineering.linkedin.com/blog.rss.html
