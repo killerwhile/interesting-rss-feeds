@@ -3,4 +3,4 @@ https://feeds.feedburner.com/HighScalability
 https://feeds.feedburner.com/TheHackersNews
 https://www.schneier.com/feed/rss
 https://krebsonsecurity.com/feed/
-https://www.techrepublic.com/rssfeeds/
+https://www.techrepublic.com/rssfeeds/topic/cybersecurity/
