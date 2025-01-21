@@ -1,5 +1,4 @@
 https://www.bleepingcomputer.com/feed/
-https://feeds.feedburner.com/HighScalability
 https://www.schneier.com/feed/rss
 https://krebsonsecurity.com/feed/
 https://www.techrepublic.com/rssfeeds/topic/cybersecurity/
